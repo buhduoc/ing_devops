@@ -1,7 +1,7 @@
 name: Pipeline con Errores
 on:
  push:
-  branches: main
+  branches: ramma1
 
 jobs:
   build:
